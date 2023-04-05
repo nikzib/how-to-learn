@@ -33,3 +33,7 @@ _Первая проектная работа от сервиса онлайн-�
 
 - [Чеклист к первому брифу](https://code.s3.yandex.net/web-developer/checklists-pdf/new-program/checklist-1.pdf)
 - [Чеклист ко второму брифу](https://code.s3.yandex.net/web-developer/checklists-pdf/new-program/checklist-2.pdf)
+
+## Сайт
+
+https://nikzib.github.io/how-to-learn/
